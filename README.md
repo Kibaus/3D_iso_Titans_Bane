@@ -1,7 +1,6 @@
 # SoloProject_Titans-Bane
 A 3D isometric Hack N Slash
 
-
 # Titans-Bane
 Titan's Bane is a 3D isometric Hack N Slash where you play as a stranded spartan named Lazaros. Trapped in the ancient city Scourge Ruins, you must defeat voodoo souls enemies, solve puzzles, find the six titan god statues and their collectibles to defeat the gatekeeper preventing you from escaping Scourge Ruins. Escape the ruins before the city collapses and the kaijus awake!
 
@@ -9,11 +8,6 @@ Titan's Bane is a 3D isometric Hack N Slash where you play as a stranded spartan
 1. Free-Roam Exploration - (Go Explore!)
 2. Collect & Re-distribute - (During gameplay, you can collect useful spirits | During combat you can also re-distribute them as a shield to protect yourself incase things become hefty!)
 3. Upgrades and Enchantments - (Finding the Titans collectibles will help you enchant your equipment deal and fend off against full racks of damage!)
-
-## KEY FEATURES - Top 3**
-1.
-2.
-3.
 
 ## Documents
 
