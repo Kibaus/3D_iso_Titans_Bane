@@ -1,4 +1,4 @@
-# SoloProject_Titans-Bane
+# Titans-Bane - DRAFTED PROJECT
 A 3D isometric Hack N Slash
 
 # Titans-Bane
