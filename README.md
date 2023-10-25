@@ -1,4 +1,4 @@
-# Titans-Bane - DRAFTED PROJECT
+# Titans-Bane - TEST PROTOTYPE
 A 3D isometric Hack N Slash
 
 # Titans-Bane
