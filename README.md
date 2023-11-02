@@ -1,8 +1,6 @@
 # Titans-Bane
 A 3D isometric Hack N Slash | A-RPG
 
-(Test Message to see that Github Webhook is working on Discord)
-
 # Titans-Bane
 Titan's Bane is a 3D isometric Hack N Slash where you play as a stranded spartan named Lazaros. Trapped in the ancient city Scourge Ruins, you must defeat voodoo souls enemies, solve puzzles, find the six titan god statues and their collectibles to defeat the gatekeeper preventing you from escaping Scourge Ruins. Escape the ruins before the city collapses and the kaijus awake!
 
