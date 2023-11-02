@@ -1,5 +1,5 @@
-# Titans-Bane - TEST 
-A 3D isometric Hack N Slash
+# Titans-Bane
+A 3D isometric Hack N Slash | A-RPG
 
 # Titans-Bane
 Titan's Bane is a 3D isometric Hack N Slash where you play as a stranded spartan named Lazaros. Trapped in the ancient city Scourge Ruins, you must defeat voodoo souls enemies, solve puzzles, find the six titan god statues and their collectibles to defeat the gatekeeper preventing you from escaping Scourge Ruins. Escape the ruins before the city collapses and the kaijus awake!
@@ -33,3 +33,11 @@ Action      | Keyboard Control  | Gamepad Controls
 ---         |---                |---
 Map         | M                 | < Back Button
 Pause Game  | Esc               | > Start Button
+
+### KNOWN ISSUES - (Here is where you comment any issues that you find during and throughout the project development phase(s))
+
+
+### THE TEAM
+- Kiyaan Merali - Project Manager / Character Artist / Programmer / Environment Artist / Game Desiger
+
+- Vicente Pinana - Programmer / User Interface programmer / User Experience tester / Game Designer
